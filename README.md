@@ -1,2 +1,2 @@
-# canard
+# CANARD
 Question-in-context rewriting
