@@ -16,4 +16,4 @@ To run the model:
 4. Run `./preprocess.sh` to generate sequence-to-sequence format of the dataset.
 5. Run `./ONMT_Pipeline_GloVE.sh` to train and evaluate the model.
 
-A trained model can be downloaded using [this link](https://drive.google.com/file/d/1vs_DTQ2b1YFJmNOsk_mCNRK9uOVXNfFZ/view?usp=sharing). The model achieves a 51.54 BLEU score on the dev set and 50.00 on the test set.
+A trained model can be downloaded using [this link](https://obj.umiacs.umd.edu/elgohary/canard_onmt_model/rewrite_onmt.zip). The model achieves a 51.54 BLEU score on the dev set and 50.00 on the test set.
