@@ -31,5 +31,5 @@ multiple_refs.json
     A 100 rewrite pairs each consists of two rewrites of the same question provided by two
     different crowd workers.
 
-
+CANARD is distributed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
 For more details see http://canard.qanta.org or contact Ahmed Elgohary (elgohary@cs.umd.edu)
